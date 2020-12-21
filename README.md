@@ -1,6 +1,6 @@
 reduce_mem_usageを早くしたい
 
-##  2通りで速度の比較
+##  Comparison of the two methods
 - base code (overwrite)
 ```
 if c_min > np.iinfo(np.int8).min and c_max < np.iinfo(np.int8).max:
