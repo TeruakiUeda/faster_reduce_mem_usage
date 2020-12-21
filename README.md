@@ -19,4 +19,4 @@ df_out = pd.concat(dfs, axis=1)
 ```
 
 - result  
-![exp result](https://user-images.githubusercontent.com/44664107/102814636-4737c400-440e-11eb-9873-c222d296f307.png)
+![exp result](https://user-images.githubusercontent.com/44664107/102815979-9979e480-4410-11eb-9094-ff6206ac93ad.png)
